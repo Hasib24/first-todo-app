@@ -1,0 +1,9 @@
+button {
+  font-size: 0.8rem;
+  margin: 2px;
+
+}
+input{
+    outline: none;
+    margin-bottom: 5px;
+}

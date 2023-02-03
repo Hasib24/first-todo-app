@@ -1,0 +1,16 @@
+.todo{
+    /* border: 1px solid rgba(0, 0, 0, 0.1); */
+    border-radius: 5px;
+    background-color: rgba(9, 119, 81, 0.464);
+    box-shadow: 2px 2px 5px rgba(206, 225, 0, 0.2);
+    margin: 10px;
+    padding: 10px;
+}
+p{
+    display: inline-block;
+}
+button{
+    margin-left: 20px;
+    padding: 5px;
+    font-size: 20px;
+}
